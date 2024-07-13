@@ -1,1 +1,1 @@
-# nime_bot
+# anime_bot
